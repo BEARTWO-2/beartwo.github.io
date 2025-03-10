@@ -1,8 +1,8 @@
 name: "Beartwo's blog"
 description: "熊二的个人博客"
 
-avatar: https://beartwo.github.io/images/avatar.png
-favicon: https://beartwo.github.io/images/favicon.ico
+avatar: https://beartwo2.github.io/images/avatar.png
+favicon: https://beartwo2.github.io/images/favicon.ico
 
 navigation:
   - name: 首页
@@ -27,7 +27,7 @@ footer-links:
 
 footer-text: Copyright (c) 2025 Beartwo
 
-url: https://beartwo.github.io
+url: https://beartwo2.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
